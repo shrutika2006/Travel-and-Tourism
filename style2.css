@@ -1,0 +1,13 @@
+.hotel{ display: flex;}
+    .hotel div{
+        border: 1px black solid;
+        padding:20px;
+        
+    }
+    .box{ flex:1;}
+    .box2{flex:1;}
+    .box3{flex:1;}
+    .title div{text-align: center;}
+ 
+
+    

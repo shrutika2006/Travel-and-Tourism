@@ -1,0 +1,39 @@
+.outbox{
+  display: flex;
+  flex-wrap: wrap;
+   justify-content: space-between;
+   margin-top:40px;
+   
+}
+
+
+.card {
+  
+    
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,1);
+    background-color: white;
+    border-radius: 15px;
+    overflow:hidden;
+    flex-basis: 30%;
+    margin:10px;
+    
+  }
+
+  .card img{
+    height: 290px;
+    width:100%;
+  }
+  
+  .container{
+text-align:center;
+width:100%;
+
+  }
+  a :hover{box-shadow: 6px 6px 10px 0 rgba(0,0,0,1);
+    
+    
+  }
+  .s{
+    text-align:center;
+    margin:600px;
+  }

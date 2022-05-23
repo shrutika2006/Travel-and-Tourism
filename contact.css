@@ -1,0 +1,42 @@
+#contact .form-div {
+    text-align: center;
+}
+
+.form-div input,
+textarea {
+    padding: 16px;
+    margin-bottom: 14px;
+    font-size: 18px;
+    width: 400px;
+    border-radius: 12px;
+    border: 1px solid white;
+    background: #00000087;
+    color: white;
+}
+
+.form-div input::placeholder {
+    color: white;
+    opacity: 0.7;
+}
+
+
+#contact {
+    background: rgba(0, 0, 0, 0.5);
+    margin: 70px;
+    color: wheat;
+    border-radius: 20px;
+}
+
+#contact #title {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.submit-btn:hover {
+    background-color: black;
+}
+.our{ font-size:20px;
+border-radius:20px;
+display:inline;
+margin:5px;
+}
